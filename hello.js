@@ -1,14 +1,14 @@
-var d1="Hello Patan tttttt tttttt ttttttt"
+// var d1="Hello Patan tttttt tttttt ttttttt"
 
 
-var name="patan"
-var NAME="mysa"
-var Name="barath"
-var name="large"
+// var name="patan"
+// var NAME="mysa"
+// var Name="barath"
+// var name="large"
 
-console.log(name)
-console.log(NAME)
-console.log(Name)
+// console.log(name)
+// console.log(NAME)
+// console.log(Name)
 
 
 
@@ -32,13 +32,15 @@ console.log(Name)
 // console.log("true")
 
 
-var undefined=10
-console.log(undefined)
-var a=10
-var b=12
-console.log(a+b)
-console.log(a-b)
-console.log(a/b)
-console.log(a%b)
-console.log(a==b)
-console.log(a*b)
+// var undefined=10
+// console.log(undefined)
+// var a=10
+// var b=12
+// console.log(a+b)
+// console.log(a-b)
+// console.log(a/b)
+// console.log(a%b)
+// console.log(a==b)
+// console.log(a*b)
+
+
