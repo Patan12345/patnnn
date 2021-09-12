@@ -51,13 +51,13 @@
 //      statment-1
 //   }
 
-  if(true){
-       console.log("Hey, I am under condition")
-       console.log("Hey, I am under condition")
-       console.log("Hey, I am under condition")
-       console.log("Hey, I am under condition")
-       console.log("Hey, I am under condition")
-  }
+//   if(true){
+//        console.log("Hey, I am under condition")
+//        console.log("Hey, I am under condition")
+//        console.log("Hey, I am under condition")
+//        console.log("Hey, I am under condition")
+//        console.log("Hey, I am under condition")
+//   }
   //false: undefined,null,0,""
 
 // var a=11
@@ -101,13 +101,55 @@
 // }
 
 
-var n=10
-if(n>10){
-    console.log(1)
-}else if(n==100){
-    console.log(2)
-}else {
-    console.log(3)
-}if(n==10){
-    console.log(4)
+// var n=10
+// if(n>10){
+//     console.log(1)
+// }else if(n==100){
+//     console.log(2)
+// }else {
+//     console.log(3)
+// }if(n==10){
+//     console.log(4)
+// }
+
+
+
+// var n=10
+// if(n>10){
+//     console.log(1)
+// }else if(n==100){
+//     if(n==10){
+//         console.log(5)
+//     }else{
+//         console.log(6)
+//     }
+
+//     console.log(2)
+// }else {
+//     console.log(3)
+// }if(n==10){
+//     console.log(4)
+// }
+
+
+
+// var n="10"
+// if(n==10){
+//     console.log(5)
+// }else{
+//     console.log(6)
+// }
+// if(n===10){
+//     console.log(55)
+// }else{
+//     console.log(66)
+// }
+var m="jan"
+if(m=="feb"){
+    console.log(m+"has 28 days")
+}
+if(m=="jan" || m=="mar" || m=="may" || m=="jul" || m=="aug" || m=="oct" || m=="dec" ){
+    console.log(m+"has 31 days")
+}if(m=="apr" || m=="jun" || m=="sep" || m=="nov"  ){
+    console.log(m+"has 30 days")
 }
