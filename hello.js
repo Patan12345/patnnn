@@ -11,11 +11,6 @@
 // console.log(Name)
 
 
-
-
-
-
-
 // console.log(d1)
 // console.log(d1)
 // console.log(d1)
@@ -82,7 +77,6 @@
 
 
 
-// 100,90
 // var q=99
 
 // if(q>100){
@@ -99,6 +93,7 @@
 // }else{
     // console.log(q+"is equals to 100")
 // }
+// 100,90
 
 
 // var n=10
@@ -144,12 +139,35 @@
 // }else{
 //     console.log(66)
 // }
-var m="jan"
-if(m=="feb"){
-    console.log(m+"has 28 days")
-}
-if(m=="jan" || m=="mar" || m=="may" || m=="jul" || m=="aug" || m=="oct" || m=="dec" ){
-    console.log(m+"has 31 days")
-}if(m=="apr" || m=="jun" || m=="sep" || m=="nov"  ){
-    console.log(m+"has 30 days")
+// var m="jan"
+// if(m=="feb"){
+//     console.log(m+"has 28 days")
+// }
+// if(m=="jan" || m=="mar" || m=="may" || m=="jul" || m=="aug" || m=="oct" || m=="dec" ){
+//     console.log(m+"has 31 days")
+// }if(m=="apr" || m=="jun" || m=="sep" || m=="nov"  ){
+//     console.log(m+"has 30 days"
+
+
+// var n=5
+
+// if(n>10){
+//   console.log(1)
+  
+// } else if(n<10){
+//      console.log(2)
+// }if(n==10){
+//   console.log(3)
+// }
+
+
+var n=2
+
+if(n>10){
+  console.log(1)
+  
+} else if(n<10){
+     console.log(2)
+}if(n==10){
+  console.log(3)
 }
